@@ -1,6 +1,7 @@
 body{
-	
-  background-image: url('https://wallpaperplay.com/walls/full/8/9/7/342219.jpg');
+  background-color:aqua;
+  height: 500px;
+  width: auto;
 }
 header{
 	height: 150px;
@@ -25,13 +26,13 @@ table{
 }
 
 textarea{
-    display: block;
+    display:block;
     padding-top: 20px;
     margin-bottom: 8px;
     margin-left:auto; 
     margin-right:auto;
     border-radius: 5px;
-    text-align: center;
+    text-align:right;
  }
 
  button{
